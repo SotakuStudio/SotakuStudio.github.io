@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD TuoSu, HAL Osaka, Launches Site"
+title: "GameDesigner TuoSu, HAL Osaka, Launches Site"
 date: 2021-01-21
 ---
 
