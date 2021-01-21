@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GameDesigner TuoSu, HAL Osaka, Launches Site"
+title: "2021年01月21日的博客"
 date: 2021-01-21
 ---
 
