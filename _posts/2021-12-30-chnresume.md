@@ -21,5 +21,5 @@ date: 2021-12-30
 
 【视频链接】[个人介绍-苏拓](https://1drv.ms/v/s!Aj9fktzHJKNciN02BrABSgitCyzcvw?e=68vd63)
 
-[example](http://yinping4256.github.io){:target="_blank"}
+<http://yinping4256.github.io>{:target="_blank"}
 
