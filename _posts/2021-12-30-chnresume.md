@@ -21,5 +21,6 @@ date: 2021-12-30
 
 【视频链接】[个人介绍-苏拓](https://1drv.ms/v/s!Aj9fktzHJKNciN02BrABSgitCyzcvw?e=68vd63?_blank)
 
-window.open("http://www.baidu.com"); 
+
+超链接<a href="http://www.baidu.com" title="我是新打开的页面" target="_blank">Welcome</a>
 
