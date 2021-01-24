@@ -21,7 +21,5 @@ date: 2021-12-30
 
 【视频链接】[个人介绍-苏拓](https://1drv.ms/v/s!Aj9fktzHJKNciN02BrABSgitCyzcvw?e=68vd63)
 
-<a href="http://write.blog.csdn.net/postlist" target="_blank">跳到自己博客列表</a>
-跳到自己博客列表：<a href="http://write.blog.csdn.net/postlist" target="_blank">http://write.blog.csdn.net/postlist</a>
+[example](http://yinping4256.github.io){:target="_blank"}
 
-[超链接的名字]（https://1drv.ms/v/s!Aj9fktzHJKNciN02BrABSgitCyzcvw?e=68vd63?_blank）
