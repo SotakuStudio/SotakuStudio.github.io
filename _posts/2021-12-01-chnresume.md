@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1.简历(中文)"
+title: "1_简历(中文)"
 date: 2021-12-01
 ---
 
