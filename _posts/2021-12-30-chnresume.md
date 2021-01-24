@@ -19,8 +19,8 @@ date: 2021-12-30
 
 ![Image text](https://github.com/SotakuStudio/SotakuStudio.github.io/blob/main/chnblog/image/IntroductionPage.jpg?raw=true)
 
-【视频链接】[个人介绍-苏拓](https://1drv.ms/v/s!Aj9fktzHJKNciN02BrABSgitCyzcvw?e=68vd63?_blank)
+【视频链接】[个人介绍-苏拓](https://1drv.ms/v/s!Aj9fktzHJKNciN02BrABSgitCyzcvw?e=68vd63"title")
 
+[超链接文字]( url  "title")
 
-超链接<a href="http://www.baidu.com" title="我是新打开的页面" target="_blank">Welcome</a>
 
