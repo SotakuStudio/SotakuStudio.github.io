@@ -1,5 +1,5 @@
 ---
-layout: cnhresume
+layout: chnresume
 title: "简历(中文)"
 date: 2021-01-01
 ---
