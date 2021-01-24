@@ -7,7 +7,7 @@ date: 2021-12-30
 
 更多内容请观看个人介绍视频！
 
-【观看地址:】[个人介绍-苏拓](https://1drv.ms/v/s!Aj9fktzHJKNciN02BrABSgitCyzcvw?e=68vd63)
+【视频链接】[个人介绍-苏拓](https://1drv.ms/v/s!Aj9fktzHJKNciN02BrABSgitCyzcvw?e=68vd63)
 
 ◎片　　名　个人介绍-苏拓
 
@@ -19,4 +19,4 @@ date: 2021-12-30
 
 ![Image text](https://github.com/SotakuStudio/SotakuStudio.github.io/blob/main/chnblog/image/IntroductionPage.jpg?raw=true)
 
-【观看地址:】[个人介绍-苏拓](https://1drv.ms/v/s!Aj9fktzHJKNciN02BrABSgitCyzcvw?e=68vd63)
+【视频链接】[个人介绍-苏拓](https://1drv.ms/v/s!Aj9fktzHJKNciN02BrABSgitCyzcvw?e=68vd63)
