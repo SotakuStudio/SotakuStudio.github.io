@@ -3,7 +3,7 @@ layout: post
 title: "1_个人简历--苏拓"
 date: 2021-12-30
 ---
-![Image text](https://github.com/SotakuStudio/SotakuStudio.github.io/blob/main/chnblog/image/chnresume.jpg.jpg?raw=true)
+![Image text](https://github.com/SotakuStudio/SotakuStudio.github.io/blob/main/chnblog/image/chnresume.jpg?raw=true)
 
 更多内容请观看个人介绍视频！
 
