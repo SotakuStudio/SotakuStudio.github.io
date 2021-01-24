@@ -21,5 +21,5 @@ date: 2021-12-30
 
 【视频链接】[个人介绍-苏拓](https://1drv.ms/v/s!Aj9fktzHJKNciN02BrABSgitCyzcvw?e=68vd63?_blank)
 
-<a href=“https://blog.csdn.net/weixin_45045352/article/details/90066157” target="_blank">https://blog.csdn.net/weixin_45045352/article/details/90066157
+window.open("http://www.baidu.com"); 
 
