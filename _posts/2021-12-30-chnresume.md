@@ -29,6 +29,6 @@ date: 2021-12-30
 
 ◎简　　介
 
-![Image text](https://github.com/SotakuStudio/SotakuStudio.github.io/blob/main/chnblog/image/chnresume.jpg?raw=true)
+![Image text](https://github.com/SotakuStudio/SotakuStudio.github.io/blob/main/chnblog/image/IntroductionPage.jpg?raw=true)
 
 详细内容请直接观看视频！【观看地址:】[个人介绍-苏拓](https://1drv.ms/v/s!Aj9fktzHJKNciN02BrABSgitCyzcvw?e=68vd63)
