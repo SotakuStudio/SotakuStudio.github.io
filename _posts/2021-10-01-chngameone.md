@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "企划书-魔方与游戏"
-date: 2021-01-03
+title: "2.1_企划书-魔方与游戏"
+date: 2021-10-01
 ---
 
 Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
