@@ -3,9 +3,9 @@ layout: default
 title: 自我介绍(中文)
 ---
     <h1>{{ page.title }}</h1>
-    <ul class="jpposts">
+    <ul class="posts">
 
-      {% for jpposts in site.jpposts %}
-        <li><span>{{ jpposts.date | date_to_string }}</span> » <a href="{{ jpposts.url }}" title="{{ jpposts.title }}">{{ jpposts.title }}</a></li>
+      {% for jpposts in site.posts %}
+        <li><span>{{ posts.date | date_to_string }}</span> » <a href="{{ posts.url }}" title="{{ posts.title }}">{{ posts.title }}</a></li>
       {% endfor %}
     </ul>
