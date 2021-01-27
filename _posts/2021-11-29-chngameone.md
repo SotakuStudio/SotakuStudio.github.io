@@ -8,13 +8,11 @@ date: 2021-11-29
 
 【PDF高清文件】[袖里乾坤.pdf](https://1drv.ms/v/s!Aj9fktzHJKNciN02BrABSgitCyzcvw?e=68vd63)
 
----游戏企划书-袖里乾坤---
+---游戏企划书---
 
 ![Image text](https://github.com/SotakuStudio/SotakuStudio.github.io/blob/main/chnblog/image/chnPocketWorld.jpg?raw=true)
 
----游戏介绍视频-袖里乾坤---
-
-◎视频名称　袖里乾坤
+---游戏介绍视频---
 
 ◎视频语言　中文/日文
 
@@ -24,7 +22,7 @@ date: 2021-11-29
 
 ![Image text](https://github.com/SotakuStudio/SotakuStudio.github.io/blob/main/chnblog/image/IntroductionPage.jpg?raw=true)
 
----游戏Demo-袖里乾坤---
+---游戏Demo---
 
 ◎游戏名称　袖里乾坤
 
