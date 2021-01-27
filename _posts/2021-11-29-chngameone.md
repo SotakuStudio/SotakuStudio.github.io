@@ -4,15 +4,15 @@ title: "  2.1_企划书--袖里乾坤"
 date: 2021-11-29
 ---
 
-如图片加载错误，或者清晰度过低，请点击pdf文件链接查看。
+如图片加载错误，或者清晰度过低，请点击pdf文件链接进行查看。
 
 【PDF高清文件】[袖里乾坤.pdf](https://1drv.ms/v/s!Aj9fktzHJKNciN02BrABSgitCyzcvw?e=68vd63)
 
-【游戏企划书--袖里乾坤】
+---游戏企划书-袖里乾坤---
 
 ![Image text](https://github.com/SotakuStudio/SotakuStudio.github.io/blob/main/chnblog/image/chnPocketWorld.jpg?raw=true)
 
-【游戏介绍视频--袖里乾坤】
+---游戏介绍视频-袖里乾坤---
 
 ◎视频名称　袖里乾坤
 
@@ -24,7 +24,7 @@ date: 2021-11-29
 
 ![Image text](https://github.com/SotakuStudio/SotakuStudio.github.io/blob/main/chnblog/image/IntroductionPage.jpg?raw=true)
 
-【游戏Demo--袖里乾坤】
+---游戏Demo-袖里乾坤---
 
 ◎游戏名称　袖里乾坤
 
