@@ -5,7 +5,7 @@ date: 2021-12-30
 ---
 如图片加载错误，或者清晰度过低，请点击pdf文件链接进行查看。
 
-【PDF高清文件】[个人简历.pdf](https://1drv.ms/b/s!Aj9fktzHJKNciN04-h84Un6h_uuscQ?e=5t2pKy)
+【PDF高清文件】[个人简历.pdf](https://1drv.ms/b/s!Aj9fktzHJKNciN06rw5TyEamfuhR8g?e=3nODQ8)
 
 ---个人简历---
 
