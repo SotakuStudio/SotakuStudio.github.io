@@ -6,7 +6,7 @@ date: 2021-11-29
 
 如图片加载错误，或者清晰度过低，请点击pdf文件链接进行查看。
 
-【PDF高清文件】[袖里乾坤.pdf](https://1drv.ms/v/s!Aj9fktzHJKNciN02BrABSgitCyzcvw?e=68vd63)
+【PDF高清文件】[袖里乾坤.pdf](https://1drv.ms/b/s!Aj9fktzHJKNciN04-h84Un6h_uuscQ?e=5t2pKy)
 
 ---游戏企划书---
 
