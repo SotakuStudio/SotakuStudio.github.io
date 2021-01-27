@@ -12,7 +12,7 @@ date: 2021-11-29
 
 ![Image text](https://github.com/SotakuStudio/SotakuStudio.github.io/blob/main/chnblog/image/chnPocketWorld.jpg?raw=true)
 
----游戏介绍视频---
+---介绍视频---
 
 ◎视频语言　中文
 
