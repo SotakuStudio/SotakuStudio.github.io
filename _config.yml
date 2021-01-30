@@ -1,2 +1,4 @@
     name: Su Tuo, Hal Osaka
     markdown: kramdown
+    permalink: /portfolio/:year/:month/:day/:title
+
